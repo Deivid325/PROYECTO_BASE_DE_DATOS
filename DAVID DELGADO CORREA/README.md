@@ -14,9 +14,13 @@
 🛠️ Mantenimientos
 
 🔍 Funcionalidades destacadas
+
 ✨ Consultas SQL útiles para obtener información clave del negocio (reservas activas, ingresos por mes, historial de clientes...).
+
 🧾 Vistas que simplifican el análisis de datos y ofrecen reportes directos (por ejemplo: ingresos mensuales por sucursal, vehículos en mantenimiento...).
+
 ⚙️ Triggers automáticos que permiten llevar control sobre eventos como el aumento de kilometraje o validaciones al registrar mantenimientos.
+
 ➕ Columnas nuevas como kilometraje y fechaRegistro, y una tabla adicional de mantenimientos para mejorar el control de la flota.
 
 🧠 ¿Qué aporta este proyecto?
