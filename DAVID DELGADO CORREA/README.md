@@ -23,4 +23,7 @@
 ## 🧠 ¿Qué aporta este proyecto?
 
 Este proyecto me ha permitido aplicar de forma práctica conocimientos clave sobre modelado de datos, relaciones entre entidades y automatización con SQL. Además, refleja cómo una base de datos bien diseñada puede facilitar la gestión y toma de decisiones en una empresa real. 💼📈
+
+---
+
 ![image](https://github.com/user-attachments/assets/b6e550c9-4193-46b6-b6ad-dc3557164967)
