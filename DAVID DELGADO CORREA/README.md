@@ -1,7 +1,24 @@
-## 🚗 Proyecto Base de Datos: Sistema de Alquiler de Vehículos
-Este proyecto consiste en el diseño e implementación de una base de datos para una empresa de alquiler de coches 🚘. Se ha creado un modelo relacional completo en MySQL con tablas como clientes, vehículos, empleados, sucursales, reservas y mantenimientos, todas correctamente enlazadas mediante claves foráneas 🔗. También se añadieron columnas relevantes como kilometraje y fechaRegistro para mejorar el control del uso de los vehículos y el historial de los clientes 📊.
+## 🚗💻 Proyecto Base de Datos: Sistema de Alquiler de Vehículos
+¡Bienvenido/a a mi proyecto de base de datos! 🎉 Este sistema ha sido desarrollado con MySQL y tiene como objetivo gestionar de forma eficiente una empresa de alquiler de vehículos. A lo largo del proyecto se han creado y relacionado distintas tablas como:
 
-Además, se desarrollaron consultas SQL avanzadas, junto con vistas que facilitan la visualización de la información clave 👁️‍🗨️ y triggers que automatizan acciones importantes como la validación de mantenimientos o el control de kilometraje ⚙️. Estas funciones permiten optimizar la gestión diaria del sistema y asegurar la integridad de los datos 🔒.
+👤 Clientes
 
-En conjunto, este proyecto ofrece una solución robusta y escalable 💡, ideal para llevar el control eficiente de una empresa de alquiler de vehículos, mejorando la toma de decisiones y facilitando las tareas administrativas del negocio 🧾.
+🚘 Vehículos
+
+🧑‍💼 Empleados
+
+🏢 Sucursales
+
+📅 Reservas
+
+🛠️ Mantenimientos
+
+🔍 Funcionalidades destacadas
+✨ Consultas SQL útiles para obtener información clave del negocio (reservas activas, ingresos por mes, historial de clientes...).
+🧾 Vistas que simplifican el análisis de datos y ofrecen reportes directos (por ejemplo: ingresos mensuales por sucursal, vehículos en mantenimiento...).
+⚙️ Triggers automáticos que permiten llevar control sobre eventos como el aumento de kilometraje o validaciones al registrar mantenimientos.
+➕ Columnas nuevas como kilometraje y fechaRegistro, y una tabla adicional de mantenimientos para mejorar el control de la flota.
+
+🧠 ¿Qué aporta este proyecto?
+Este proyecto me ha permitido aplicar de forma práctica conocimientos clave sobre modelado de datos, relaciones entre entidades y automatización con SQL. Además, refleja cómo una base de datos bien diseñada puede facilitar la gestión y toma de decisiones en una empresa real. 💼📈
 ![image](https://github.com/user-attachments/assets/f9d98c4f-16f0-4936-88b1-3edba2d79b17)
