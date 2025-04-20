@@ -4,3 +4,4 @@ Este proyecto consiste en el diseño e implementación de una base de datos para
 También se han implementado consultas SQL avanzadas, vistas para facilitar el análisis de información, y triggers para automatizar acciones críticas como el control de kilometraje o la verificación de mantenimientos. Estas funcionalidades permiten gestionar de forma eficiente las operaciones del sistema, optimizando el acceso a datos clave y mejorando la fiabilidad del sistema.
 
 En conjunto, este proyecto refleja el desarrollo de una solución sólida y escalable, ideal para gestionar de forma eficaz una empresa de alquiler de vehículos, abarcando todos los aspectos importantes del negocio: desde el registro de clientes hasta el mantenimiento de la flota.
+![image](https://github.com/user-attachments/assets/3e696671-d221-461c-9f75-2c896530babd)
