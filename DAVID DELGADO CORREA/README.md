@@ -1,1 +1,6 @@
-.
+## Proyecto Base de Datos: Sistema de Alquiler de Vehículos
+Este proyecto consiste en el diseño e implementación de una base de datos para una empresa de alquiler de coches. Se ha creado un modelo relacional completo con MySQL que incluye tablas como clientes, vehículos, empleados, sucursales, reservas y mantenimientos, todas conectadas mediante claves foráneas para asegurar la integridad de los datos. Además, se añadieron campos útiles como kilometraje y fechaRegistro para mejorar el seguimiento del estado de los vehículos y la fidelización de clientes.
+
+También se han implementado consultas SQL avanzadas, vistas para facilitar el análisis de información, y triggers para automatizar acciones críticas como el control de kilometraje o la verificación de mantenimientos. Estas funcionalidades permiten gestionar de forma eficiente las operaciones del sistema, optimizando el acceso a datos clave y mejorando la fiabilidad del sistema.
+
+En conjunto, este proyecto refleja el desarrollo de una solución sólida y escalable, ideal para gestionar de forma eficaz una empresa de alquiler de vehículos, abarcando todos los aspectos importantes del negocio: desde el registro de clientes hasta el mantenimiento de la flota.
