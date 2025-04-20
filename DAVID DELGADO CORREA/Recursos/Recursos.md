@@ -1,13 +1,16 @@
-# 馃摎 Recursos Utilizados
+# 📚 Recursos Utilizados
 
-Este proyecto ha sido desarrollado con base en conocimientos adquiridos a trav茅s de diversas fuentes. A continuaci贸n, se enumeran algunos recursos que ayudaron en su elaboraci贸n:
+Este proyecto ha sido desarrollado con base en conocimientos adquiridos a través de diversas fuentes confiables. A continuación, se enumeran algunos recursos clave que me ayudaron a su elaboración:
 
-- 馃摌 **Documentaci贸n oficial de MySQL**  
+- 📘 **Documentación oficial de MySQL**  
   https://dev.mysql.com/doc/
 
-- 馃 **Materiales de clase y sesiones grabadas**  
-  Conceptos b谩sicos y avanzados sobre dise帽o de bases de datos, normalizaci贸n, claves primarias/for谩neas, vistas y triggers.
+- 🧠 **Apuntes personales y materiales de clase**  
+  Conceptos básicos y avanzados sobre diseño de bases de datos, normalización, claves primarias/foráneas, consultas sql, vistas y triggers.
 
-- 馃摑 **Foros de discusi贸n y aprendizaje**  
-  - Stack Overflow: https://stackoverflow.com/questions/tagged/mysql
-  - Comunidad SQL Espa帽a en Discord.
+- 📝 **Foros de discusión y aprendizaje**  
+  - Stack Overflow: https://stackoverflow.com/  
+  - Comunidad SQL España en Discord y foros especializados
+
+- 💡 **Ideas originales**  
+  Gran parte del diseño y los datos han sido creados de forma personalizada, adaptados al contexto de una empresa de alquiler de coches en Canarias.
